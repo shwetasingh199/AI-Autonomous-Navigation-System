@@ -189,4 +189,4 @@ Use these only after running and testing the project:
 
 ## Author
 
-Add your name, GitHub profile, and contact details here.
+SHWETA SINGH
