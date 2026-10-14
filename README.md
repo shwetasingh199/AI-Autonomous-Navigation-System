@@ -165,20 +165,6 @@ Add them here when captured:
 - Modular Python architecture and automated tests
 - Streamlit dashboarding and Git-based documentation
 
-## GitHub publishing
-
-Create a repository named `AI-Autonomous-Navigation-System`, then run:
-
-```bash
-git init
-git add .
-git commit -m "feat: add grid-world navigation simulator"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/AI-Autonomous-Navigation-System.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Suggested topics: `autonomous-navigation`, `robotics`, `path-planning`, `astar`, `python`, `streamlit`, `simulation`.
 
 ## Resume bullet examples
 
