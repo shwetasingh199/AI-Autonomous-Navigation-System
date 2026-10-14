@@ -133,19 +133,6 @@ python -m unittest discover -s tests -v
 
 The app reports whether a route was found and route/search metrics. Planning time depends on your computer and should not be presented as a universal benchmark. Map perception is simulated; there is no camera object detection or dynamic obstacle avoidance in this baseline.
 
-## Screenshots and demo assets
-
-Save genuine screenshots from your own run under `docs/images/`, for example:
-- `dashboard_overview.png`
-- `route_planning_astar.png`
-- `algorithm_comparison.png`
-- `terminal_cli_run.png`
-
-Add them here when captured:
-
-```markdown
-![Dashboard overview](docs/images/dashboard_overview.png)
-```
 
 ## Future improvements
 
