@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+# Generated run artefacts (keep folder placeholder)
+outputs/*
+!outputs/.gitkeep
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
